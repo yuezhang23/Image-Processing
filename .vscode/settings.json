@@ -1,0 +1,4 @@
+{
+    "java.home": "/path/to/your/java/home",  // Ensure this points to your JDK installation
+    "java.configuration.updateBuildConfiguration": "automatic"
+}

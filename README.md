@@ -1,5 +1,7 @@
 # Image Processing
 
+## Swing GUI
+download [ImageProcessing.jar](https://github.com/yuezhang23/image-processing/releases/download/ImageProcessing/ImageProcessing.jar)
 ## Features
 
 This program consists of three parts:

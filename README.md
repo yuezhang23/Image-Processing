@@ -1,9 +1,9 @@
 # Image Processing
 
 ## Swing GUI
-### download 
-[ImageProcessing.jar](https://github.com/yuezhang23/image-processing/releases/download/ImageProcessing/ImageProcessing.jar)
-[User Instruction for GUI](https://github.com/yuezhang23/image-processing/releases/download/UserInstruction/USEME.pdf)
+### download  
+- [ImageProcessing.jar](https://github.com/yuezhang23/image-processing/releases/download/ImageProcessing/ImageProcessing.jar)
+- [User Instruction for GUI](https://github.com/yuezhang23/image-processing/releases/download/UserInstruction/USEME.pdf)
 
 ## Features
 
